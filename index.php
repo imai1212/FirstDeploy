@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>DeploySuccsess!!</h1>
+    <h1>Pipeline and DeploySuccsess!!</h1>
     <?php phpinfo(); ?>
   </body>
 </html>
